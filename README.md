@@ -26,7 +26,6 @@ $RESTART_QUEUES()
 ## Contents of .env.staging.encrypted
 ```
 APP_NAME=Laravel
-APP_ENV=production
 APP_KEY=base64:rp6oQv9PEOG0+g4HkX+nByC4hzpNwJVClL9EDRkmmqg=
 APP_DEBUG=false
 APP_URL="http://envtest.smartgeomatics.de"

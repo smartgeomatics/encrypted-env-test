@@ -123,4 +123,6 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'test_env_var' => env('TEST_ENV_VAR', 'unset'),
+
 ];
